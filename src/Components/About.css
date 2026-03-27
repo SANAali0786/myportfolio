@@ -1,0 +1,18 @@
+
+.about{
+ background-color: #001f3f;
+ min-height: 100vh;
+ 
+}
+
+.aboutme{
+    color:  #7fdbff;
+    font-size: 3rem;
+    text-align: center;
+ 
+}
+.info{
+    color: white;
+    margin: 50px 80px;
+    font-size: 1.3rem;
+}

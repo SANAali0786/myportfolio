@@ -1,0 +1,17 @@
+
+ #projects {
+    background-color: #001f3f;
+    min-height: 100vh;
+    padding: 50px 100px;
+}
+#projects h2{
+    color: #7fdbff;
+    font-size: 3rem;
+    text-align: center;
+}
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    margin-top: 40px;
+}

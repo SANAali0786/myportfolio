@@ -1,0 +1,66 @@
+#home {
+    background-color: #001f3f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 90px;
+    min-height: 100vh;
+}
+
+.hero-text {
+    
+    flex-direction: column;
+    gap: 16px;
+}
+
+.hero-greeting {
+    font-size: 1rem;
+    color: white;
+}
+
+.hero-name {
+    font-size: 3rem;
+    color: white;
+    font-weight: 700;
+}
+
+.hero-role {
+    font-size: 5rem;
+    font-weight: 600;
+    color: #7fdbff;
+}
+
+.hero-intro {
+    font-size: 1.3rem;
+    color: #ccc;
+    max-width: 500px;
+    line-height: 1.6;
+}
+
+.hero-img img {
+    width: 350px;
+    border-radius: 50%;
+    border: 2px solid #7fdbff;
+}
+
+.btn1 {
+    background-color: #7fdbff;
+    color: #001f3f;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-right: 12px;
+}
+
+.btn2 {
+    background-color: #7fdbff;
+    color: #001f3f;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-right: 12px;
+}
