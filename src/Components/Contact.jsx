@@ -65,9 +65,9 @@ const onSubmit = (e) => {
         <button type='submit' >Submit</button>
         </form>
         <div className='contact-links'>
-    <a href="mailto:praveensajiya01@gmail.com" target="_blank"><FaEnvelope /></a>
-    <a href="https://linkedin.com/in/sana-praveen-153889272" target="_blank"><FaLinkedin /></a>
-    <a href="https://github.com/SANAali0786" target="_blank"><FaGithub /></a>
+    <a href="mailto:praveensajiya01@gmail.com" target="_blank" rel="noreferrer"><FaEnvelope /></a>
+    <a href="https://linkedin.com/in/sana-praveen-153889272" target="_blank" rel="noreferrer"><FaLinkedin /></a>
+    <a href="https://github.com/SANAali0786" target="_blank" rel="noreferrer"><FaGithub /></a>
 </div>
         </section>
     )

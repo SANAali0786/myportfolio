@@ -1,6 +1,6 @@
 import image from '../img.webp'
 import './Hero.css';
-function Hero({}){
+function Hero(){
     return (
        
           <section id="home">

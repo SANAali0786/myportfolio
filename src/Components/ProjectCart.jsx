@@ -7,8 +7,8 @@ function ProjectCart({project}){
   {project.tech.map((tech) => (
     <span key={tech}>{tech}</span>
   ))}
-      <a href={project.github} target="_blank">GitHub</a>
-<a href={project.live} target="_blank">Live Demo</a>
+      <a href={project.github} target="_blank" rel="noreferrer">GitHub</a>
+<a href={project.live} target="_blank" rel="noreferrer">Live Demo</a>
   </div>
     )
 
